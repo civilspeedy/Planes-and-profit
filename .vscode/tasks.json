@@ -12,7 +12,7 @@
                 "${file}"
             ],
             "options": {
-                "cwd": "${fileDirname}"
+                "cwd": "\bin\\${fileDirname}"
             },
             "problemMatcher": [
                 "$msCompile"
